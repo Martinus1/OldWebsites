@@ -1,0 +1,31 @@
+body{
+	border: 20px solid #bdc3c7;
+	margin:auto 15%;
+}
+
+*{
+	font-family: Source Sans Pro
+}
+
+h1, p{
+	margin:20px;
+}
+
+h1{
+	color:#2C3E50;
+	font-weight: 800;
+}
+
+hr{
+	margin: 30px;
+}
+.first{
+	border-left: 7px solid #bdc3c7;
+	padding-left: 9px;
+}
+
+.date{
+	color: #3498DB;
+	text-transform: uppercase;
+	letter-spacing: 2px
+}
